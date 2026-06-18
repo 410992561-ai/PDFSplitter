@@ -1,0 +1,7 @@
+# PDFSplitter v3.1 依赖
+# 安装: pip install -r requirements.txt
+
+PyMuPDF>=1.24.0
+
+# 注意: tkinter 为 Python 标准库，无需额外安装
+# 注意: HTTP 请求使用标准库 urllib，无需 requests
